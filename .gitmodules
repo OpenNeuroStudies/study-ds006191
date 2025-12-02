@@ -1,0 +1,15 @@
+[submodule "ds006190"]
+	path = sourcedata/ds006190
+	url = https://github.com/OpenNeuroDatasets/ds006190.git
+[submodule "ds006189"]
+	path = sourcedata/ds006189
+	url = https://github.com/OpenNeuroDatasets/ds006189.git
+[submodule "ds006185"]
+	path = sourcedata/ds006185
+	url = https://github.com/OpenNeuroDatasets/ds006185.git
+[submodule "ds006131"]
+	path = sourcedata/ds006131
+	url = https://github.com/OpenNeuroDatasets/ds006131.git
+[submodule "ds006191"]
+	path = derivatives/Custom code-unknown
+	url = https://github.com/OpenNeuroDatasets/ds006191.git
